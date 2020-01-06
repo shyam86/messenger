@@ -19,7 +19,7 @@ public class DatabaseClass {
 		return messages;
 	}
 
-	public static Map<Long, Profile> getAllProfiles(){
+	public static Map<String, Profile> getAllProfiles(){
 		
 		return profile;
 	}
